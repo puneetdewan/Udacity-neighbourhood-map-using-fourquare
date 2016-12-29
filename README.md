@@ -1,4 +1,4 @@
-# Udacity-neighbourhood-map-using-fourquare
+# Neighborhood Map
 ## How to open the Project
 * Unzip the files.
 * Open index.html in any browser.
